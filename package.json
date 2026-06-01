@@ -1,0 +1,22 @@
+{
+  "name": "novapastadogpretoebranco",
+  "version": "1.0.0",
+  "main": "cinza.js",
+  "scripts": {
+    "test": "jest",
+    "serve": "http-server -p 8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "chromedriver": "^148.0.0",
+    "http-server": "^14.1.1",
+    "jest": "^30.3.0",
+    "selenium-webdriver": "^4.43.0"
+  }
+}
